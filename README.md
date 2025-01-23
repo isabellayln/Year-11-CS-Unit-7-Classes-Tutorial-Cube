@@ -14,3 +14,5 @@ Note: Becoming familiar with how to throw exceptions will be useful in the compl
 if (length < 1) throw new IllegalArgumentException(“A cube’s side length must be equal to or greater than 1!”);
 
 If someone were to take this completed Cube class and incorporate it into their own program, they could, for example, allow the user a way of creating a Cube and if an IllegalArgumentException were to be thrown, they could determine how they wish their program to handle it. 
+
+
